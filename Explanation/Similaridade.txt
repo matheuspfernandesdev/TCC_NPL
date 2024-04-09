@@ -1,0 +1,36 @@
+
+
+Similaridade
+
+
+Doc1: cabo, trem, notebook, celular, mouse, word, cabo		(7)
+Doc2: trem, trem, celular, fone, trem						(5)	
+Doc3: notebook, antena, vm, fone, word 						(5)
+
+9 palavras
+
+BOW:   trem  notebook  celular  mouse   word   fone    vm    antena   cabo
+Doc1:   1		1        1        1       1     0       0       0       2
+Doc2:   3       0        1        0       0     1       0       0       0
+Doc3:   0       1        0        0       1     1       1       1       0
+____________________________
+
+
+Sim (Doc1, Doc2):
+	3*1 + 1*0 + 1*1 + 1*0 + 1*0 + 0*1 + 0*0 + 0*0 + 2*0 = 4
+						/
+Raiz quadrada (1² + 1² + 1² + 1² + 1² + 0² + 0² + 0² + 2²) = 3 + Raiz quadrada (3² + 0² + 1² + 0² + 0² + 1² + 0² + 0² + 0²) = 3,3166247903554
+
+= 4 / 6,3166247903554 = 0,6332495897690423 = 63%
+
+
+Sim (Doc1, Doc3):
+
+
+
+Sim (Doc2, Doc3): 
+
+
+Sim (Doc1, Doc2, Doc3): ??
+
+

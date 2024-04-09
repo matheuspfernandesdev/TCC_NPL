@@ -1,0 +1,35 @@
+Palavras Bag of words
+Tutela, Parque, Folha, Caneta, Advogado, Mouse, TCC, Selenium, Sete, Hillsong, NF, Metalcore, Roteador, Celular, CPU, Sprint (16 palavras)
+
+
+
+(15 palavras) Test1: TCC, Tutela, Caneta, TCC, Advogado, Sprint, Sprint, Tutela, TCC, NF, Roteador, Celular, CPU, CPU, Sprint
+
+(11 palavras) Test2: Tutela, Advogado, Tutela, TCC, Sete, Hillsong, NF, Metalcore, Celular, CPU, Sprint
+
+(9 palavras) Test3: Tutela, Parque, Advogado, Sete, Sete, Hillsong, NF, Metalcore, CPU
+
+(13 palavras) Test4: Tutela, TCC, Sprint, Advogado, Tutela, TCC, Hillsong, NF, Metalcore, Celular, Celular, CPU, Sprint
+
+(7 palavras) Test5: Tutela, Caneta, Advogado, Selenium, Selenium, Hillsong, NF
+
+(8 palavras) Test6: Tutela, Parque, Folha, Advogado, Mouse, Sete, Hillsong, NF
+
+
+
+Tutela      	(9 vezes)
+Parque      	(2 vezes)
+Folha      		(1 vezes)
+Caneta       	(2 vezes)
+Advogado        (6 vezes)
+Mouse        	(1 vezes)
+TCC      		(6 vezes)
+Selenium        (2 vezes)
+Sete       		(4 vezes)
+Hillsong        (5 vezes)
+NF       		(6 vezes)
+Metalcore       (3 vezes)
+Roteador     	(1 vezes)
+Celular       	(4 vezes)
+CPU       		(5 vezes)
+Sprint       	(6 vezes)
